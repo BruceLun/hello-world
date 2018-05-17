@@ -30,7 +30,7 @@
 /** @defgroup CEC 
   * @brief CEC driver modules
   * @{
-  */
+misc changes 1  */
 
 /** @defgroup CEC_Private_TypesDefinitions
   * @{

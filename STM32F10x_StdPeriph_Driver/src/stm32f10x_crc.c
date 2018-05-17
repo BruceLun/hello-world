@@ -24,7 +24,7 @@
 
 /** @addtogroup STM32F10x_StdPeriph_Driver
   * @{
-  */
+misc changes 2  */
 
 /** @defgroup CRC 
   * @brief CRC driver modules
