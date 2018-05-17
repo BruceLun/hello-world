@@ -33,7 +33,7 @@
 
 /** @addtogroup STM32F10x_StdPeriph_Driver
   * @{
-  */
+another edit from dev-test branch  */
 
 /** @addtogroup ADC
   * @{
