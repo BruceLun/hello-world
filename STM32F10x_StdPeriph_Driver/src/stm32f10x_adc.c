@@ -25,7 +25,7 @@
 
 /** @addtogroup STM32F10x_StdPeriph_Driver
   * @{
-  */
+misc changes 3 */
 
 /** @defgroup ADC 
   * @brief ADC driver modules

@@ -42,7 +42,7 @@
 
 /** @defgroup BKP_Private_Defines
   * @{
-  */
+misc changes 4  */
 
 /* ------------ BKP registers bit address in the alias region --------------- */
 #define BKP_OFFSET        (BKP_BASE - PERIPH_BASE)

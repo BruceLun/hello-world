@@ -38,7 +38,7 @@
 
 /**
   * @}
-  */
+misc changes 5  */
 
 /** @defgroup CAN_Private_Defines
   * @{
